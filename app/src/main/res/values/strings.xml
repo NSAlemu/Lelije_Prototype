@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lelije Prototype</string>
+    <string name="bottom_nav_ride">Ride</string>
+    <string name="bottom_nav_schedule">Schedule</string>
+    <string name="bottom_nav_Messages">Messages</string>
+    <string name="searchOTR">Search to use one time rides</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_account_settings">AccountSettings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="manage">Manage</string>
+    <string name="report">Report Issue</string>
+    <string name="rate">Rate Trip</string>
+    <string name="title_activity_qerwe">qerwe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bottom_nav_games">Games</string>
+    <string name="message">Message</string>
+    <string name="call">Call</string>
+</resources>
